@@ -1,4 +1,4 @@
-# IGTI BOOTCAMP FULLSTACK - Aula 19 - Desafio 2
+# IGTI BOOTCAMP FULLSTACK - Aula 17 - Desafio 2
 
 # Sobre o projeto
 Construa, utilizando HTML, CSS e JavaScript Moderno, uma aplicação para a visualização de informações de países através da API http://restcountries.eu/rest/v2/all. Iterações de incluir e remover em uma nova listagem de favoritos.
